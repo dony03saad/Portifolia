@@ -40,5 +40,5 @@ print(f"You won{user_wins}times.")
 
 print(f"The computer{computer_wins}times.")
 
-print("Goodbye user!  ")   
+print("Goodbye user :)")   
 
